@@ -49,7 +49,7 @@ Serkan Albayrak - TNC Group staj projesi
 Projeyi bilgisayarında çalıştırmak için:
 
 ```bash
-git clone https://github.com/KULLANICIADI/event-planner.git
+git clone https://github.com/Serkan-Albayrak/event-planner.git
 cd event-planner
 npm install
 npm run dev
